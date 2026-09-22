@@ -1,7 +1,7 @@
 """
-CPA Math 6 — Day 6: Area Unlocks the Missing Side
+Math 6 — Day 6: Area Unlocks the Missing Side
 Built to match the visual/interactive structure of the Day 5 app
-("Area Is Multiplication") by Xavier Honablue, M.Ed — Chandler Park Academy.
+("Area Is Multiplication") by Xavier Honablue, M.Ed.
 
 Run locally with:  streamlit run streamlit_app.py
 Deploy the same way Day 5 was deployed (push this folder to the GitHub repo
@@ -534,7 +534,7 @@ st.caption("Standards in play: 3.MD.C.7 (relate area to multiplication) · 6.EE.
            "expression you evaluate) · 6.G.A.1 (composite area).")
 st.markdown(
     "<div style='text-align:center;color:#8a939c;font-size:11px;margin-top:18px;'>"
-    "www.cognitivecloud.ai &middot; Developed by Xavier Honablue, M.Ed &middot; Chandler Park Academy"
+    "www.cognitivecloud.ai &middot; Developed by Xavier Honablue, M.Ed"
     "</div>",
     unsafe_allow_html=True,
 )
